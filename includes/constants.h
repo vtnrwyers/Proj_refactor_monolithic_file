@@ -1,8 +1,6 @@
 #ifndef CONSTANTS_H
 #define CONSTANTS_H
-#include <iostream>
 #include <string>
-#include <vector>
 
 //default files to read and write data
 const std::string SOURCE_FILE 	= "source_file.txt";
